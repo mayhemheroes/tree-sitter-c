@@ -1,6 +1,5 @@
 project: tree-sitter-c
 target: parse
-image: ghcr.io/lotdeef/tree-sitter-c:latest
 cmds:
     - cmd: /parse
 testsuite:
